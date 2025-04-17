@@ -3,8 +3,12 @@
 <h3 align="center">A Computer Vision Engineer | Data Scientist | Backend Developer | Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00008B&center=true&vCenter=true&width=550&lines=Computer+Vision+Engineer+🖼️;Data+Scientist+📊;Backend+Developer+🌐;" alt="Typing SVG">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00008B&center=true&vCenter=true&width=550&lines=Computer+Vision+Engineer+🖼️;Data+Scientist+📊;Backend+Developer+🌐" 
+    alt="Typing animation showing roles"
+  >
 </p>
+
 
 
 ---
