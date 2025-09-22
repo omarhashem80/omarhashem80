@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Omar Hashem 👋</h1>
 
-<h3 align="center">A Computer Vision Engineer | Data Scientist | Backend Developer | Computer Engineering Student</h3>
+<h3 align="center">A Backend Developer | Data Scientist | Computer Engineering Student</h3>
 
 <p align="center">
   <img 
@@ -16,6 +16,19 @@
 ### 🔧 Skills & Tools
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
@@ -27,19 +40,6 @@
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-563D7C?style=flat&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logo=catboost&logoColor=black" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </div>
 
 <div align="center">
@@ -125,10 +125,10 @@
 
 ## 🌱 Currently Exploring
 
-- Generative AI & GANs  
-- Advanced Deep Learning  
-- Systems Design  
-- Optimization Algorithms  
+- Advanced Microservices & System Design 
+- Scalable Backend Architectures (caching, security, observability) 
+- Cloud-Native Development (Docker, Kubernetes, CI/CD)  
+- High-Performance & Optimization Algorithms
 
 ---
 
