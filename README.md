@@ -30,6 +30,8 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -73,6 +75,7 @@
 ### 🌟 Highlight Projects
 
 - 🔐 **[Mazrof](https://github.com/Mazrof/back)** — Secure messaging backend with encryption, user auth, and voice call features
+- 🛒 **[E-Commerce Microservices Platform](https://github.com/omarhashem80/E-Commerce)** — Modular backend with Spring Boot, microservices, authentication, service discovery, caching, and observability.  
 - 🤖 **[Siamese Network](https://github.com/omarhashem80/Siamese_Network)** — Siamese Network using PyTorch with an APN model and EfficientNet-B0 backbone for tasks like person re-identification and face verification.
 - 📊 **[Adult Income Analysis](https://github.com/omarhashem80/adult_income)** — ML model with Streamlit dashboard for income prediction  
 - 🧾 **[Grades Auto-Filler](https://github.com/omarhashem80/Grades-AutoFiller)** — OCR & OpenCV-powered grading automation tool  
