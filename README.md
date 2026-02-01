@@ -117,7 +117,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/omar_sayed/">
-    <img src="https://leetcard.jacoblin.cool/omar_sayed?theme=dark&font=Karma&ext=contest" height="180" />
+    <img src="https://leetcard.jacoblin.cool/omar_sayed?theme=dark&font=Karma" height="180" />
   </a>
 </div>
 
